@@ -11,7 +11,7 @@ Welcome to my personal portfolio! I'm a passionate **developer** with experience
 Hi! I'm Arnav Rohilla, a developer with a passion for creating impactful software solutions. I enjoy solving complex problems and building things from the ground up. Currently, I am focused on **Web Development**. Below, you’ll find details on my education, skills, and projects.
 
 ### My Skills
-| Language/Framework | Level       | Experience |
+| Language/Framework  | Level       | Experience |
 |---------------------|-------------|------------|
 | **JavaScript**      | Intermediate| 2+ years   |
 | **Python**          | Advanced    | 3+ years   |
@@ -24,8 +24,8 @@ Hi! I'm Arnav Rohilla, a developer with a passion for creating impactful softwar
 
 ## Education
 
-### [Your University Name]  
-*Bachelor of Science in Computer Science*  
+### Malaviya National Institute of Technology, Jaipur
+*Bachelor of Technology in Computer Science*  
 **Year of Graduation:** 2027
 
 Relevant Coursework:
