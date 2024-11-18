@@ -1,4 +1,4 @@
-## [Arnav Rohilla] - Portfolio
+#Portfolio
 
 ![Your Image](143876373.jpeg)
 
@@ -86,16 +86,12 @@ You can download my resume by clicking the link below:
 
 ## Testimonials
 
-> "An exceptional developer who always goes the extra mile."  
-— **Client Name**, CEO of [Company Name]
+> "An exceptional leader who always goes the extra mile."  
+— **Nikhil Kumar**, teammate at MNIT Jaipur
 
 > "A great team player with a passion for coding and problem-solving."  
-— **Mentor Name**, Senior Developer at [Company Name]
+— **Ayush Dhimmar**, collegue at MNIT Jaipur
 
 ---
-
-## Footer
-
-Copyright © 2024 [Your Name]. All rights reserved.
 
 
